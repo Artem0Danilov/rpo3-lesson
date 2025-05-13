@@ -1,3 +1,2 @@
-def foo(a, b):
-    result = a + b
-    return result
+def sum(a, b):
+    return a + b
